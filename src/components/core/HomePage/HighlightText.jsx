@@ -8,3 +8,5 @@ export const HighlightText = ({text}) => {
     </span>
   )
 }
+
+export default HighlightText;
